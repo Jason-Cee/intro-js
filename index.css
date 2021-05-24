@@ -1,0 +1,19 @@
+body {
+  background-color: khaki;
+  height: 100vh;
+}
+
+.button {
+  background-color: #adb62b;
+  min-width: 100px;
+  transition: 1.5s ease-in-out;
+  cursor: pointer;
+  min-height: 5vh;
+  border-radius: 40px;
+}
+
+.button:hover {
+  color: black;
+  background-color: #83fff9c0;
+  min-width: 100px;
+}
